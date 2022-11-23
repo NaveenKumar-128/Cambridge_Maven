@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+  driverPath = C:\\Users\\NaveenKumarKollimarl\\OneDrive - Hallmark Health Care Solutions, Inc\\Desktop\\Selenium  Web\\Drivers\\chromedriver_win32\\chromedriver.exe
+
+
+  search=q
+    click =//button[@type='submit']
+    Text = //*[@id=\"page-content\"]/div[2]/div[1]/div[2]/div/div[3]/div/div/div/div[3]/div/div[2]/div[1]/div[2]/div[1]/div[1]/div
+     Text1 = //*[@id=\"page-content\"]/div[2]/div[1]/div[2]/div/div[3]/div/div/div/div[3]/div[1]/div[2]/div[1]/div[2]/div
+     Text2 = //*[@id=\"page-content\"]/div[2]/div[1]/div[2]/div/div[3]/div/div/div/div[3]/div/div[2]/div/div[2]/div
+    
